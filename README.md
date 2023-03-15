@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElchinFarhad
 - 👀 I’m interested in: everything
-- 🌱 I’m currently learning: Pythong, Django
+- 🌱 I’m currently learning: C#, .NET
 - 📫 How to reach me: elchin.ferhadov@gmail.com
 
 <!---
